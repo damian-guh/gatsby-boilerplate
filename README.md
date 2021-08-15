@@ -8,10 +8,10 @@ git clone https://github.com/ThisGuh/gatsby-boilerplate.git
 
 ## Technologies
 
-- gatsby
-- react
-- typescript
-- eslint
+- Gatsby
+- React
+- TypeScript
+- ESLint
 
 ## License
 
